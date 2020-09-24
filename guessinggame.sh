@@ -18,5 +18,6 @@ function guess(){
         fi
     done
 }
+
 echo "guess the files number in the current directory!"
 guess
